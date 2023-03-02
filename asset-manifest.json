@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ilyesomrimoh/ExpenseTraker/static/css/main.4b998ee4.css",
-    "main.js": "/ilyesomrimoh/ExpenseTraker/static/js/main.8980a7fd.js",
-    "index.html": "/ilyesomrimoh/ExpenseTraker/index.html",
-    "main.4b998ee4.css.map": "/ilyesomrimoh/ExpenseTraker/static/css/main.4b998ee4.css.map",
-    "main.8980a7fd.js.map": "/ilyesomrimoh/ExpenseTraker/static/js/main.8980a7fd.js.map"
+    "main.css": "//ilyesomrimoh.github.io/ExpenseTraker/static/css/main.4b998ee4.css",
+    "main.js": "//ilyesomrimoh.github.io/ExpenseTraker/static/js/main.8980a7fd.js",
+    "index.html": "//ilyesomrimoh.github.io/ExpenseTraker/index.html",
+    "main.4b998ee4.css.map": "//ilyesomrimoh.github.io/ExpenseTraker/static/css/main.4b998ee4.css.map",
+    "main.8980a7fd.js.map": "//ilyesomrimoh.github.io/ExpenseTraker/static/js/main.8980a7fd.js.map"
   },
   "entrypoints": [
     "static/css/main.4b998ee4.css",
